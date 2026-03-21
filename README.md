@@ -84,9 +84,9 @@ I enjoy building things end-to-end: from database design to deployment. I'm curr
 
 <div align="center">
 
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CQuiros2&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Cristian's GitHub stats](https://github-readme-stats-psi-dusky-12.vercel.app/api?username=CQuiros2&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CQuiros2&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats-psi-dusky-12.vercel.app/api/top-langs/?username=CQuiros2&layout=compact&theme=default&hide_border=true)
 
 </div>
 
@@ -169,9 +169,9 @@ Me gusta construir cosas de punta a punta: desde el diseño de la base de datos 
 
 <div align="center">
 
-![Estadísticas de Cristian](https://github-readme-stats.vercel.app/api?username=CQuiros2&show_icons=true&theme=default&hide_border=true&count_private=true&locale=es)
+![Estadísticas de Cristian](https://github-readme-stats-psi-dusky-12.vercel.app/api?username=CQuiros2&show_icons=true&theme=default&hide_border=true&count_private=true&locale=es)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CQuiros2&layout=compact&theme=default&hide_border=true&locale=es)
+![Lenguajes más usados](https://github-readme-stats-psi-dusky-12.vercel.app/api/top-langs/?username=CQuiros2&layout=compact&theme=default&hide_border=true&locale=es)
 
 </div>
 
