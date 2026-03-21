@@ -18,7 +18,7 @@
 📍 San José, Costa Rica &nbsp;|&nbsp; 🎓 Universidad Latina de Costa Rica
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Quir%C3%B3s-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-quiros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Quir%C3%B3s-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cquiros2/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-6AB42D?style=flat&logo=vercel&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-cquiros2dev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cquiros2dev@gmail.com)
 
@@ -103,7 +103,7 @@ I enjoy building things end-to-end: from database design to deployment. I'm curr
 📍 San José, Costa Rica &nbsp;|&nbsp; 🎓 Universidad Latina de Costa Rica
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Quir%C3%B3s-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-quiros)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Quir%C3%B3s-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cquiros2/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Próximamente-6AB42D?style=flat&logo=vercel&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-cquiros2dev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cquiros2dev@gmail.com)
 
