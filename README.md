@@ -19,7 +19,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Quir%C3%B3s-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cquiros2/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-6AB42D?style=flat&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cquiros--dev.vercel.app-6AB42D?style=flat&logo=vercel&logoColor=white)](https://cquiros-dev.vercel.app)
 [![Email](https://img.shields.io/badge/Email-cquiros2dev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cquiros2dev@gmail.com)
 
 </div>
@@ -28,15 +28,20 @@
 
 ### 🧑‍💻 About me
 
-I'm a Software Engineering student in my final year, with hands-on experience building and deploying real production systems. I currently work as IT Lead & Web Developer at Tubertico, where I'm responsible for the full IT area — from infrastructure to web development.
+I'm a Software Engineering student in my final year at Universidad Latina de Costa Rica (San Pedro). I serve as IT Lead & Web Developer at Tubertico, where I own the full technology stack — from infrastructure and deployment to web development.
 
-I enjoy building things end-to-end: from database design to deployment. I'm currently expanding my skills into TypeScript, modern React patterns, and system design.
+I build end-to-end: database design, REST APIs, containerized deployments. Currently expanding into TypeScript, modern React patterns, and system design.
 
 - 🔭 Currently building a full **ERP system** (React 19 + TypeScript + Express + PostgreSQL)
 - 🌱 Learning more about **system design** and **cloud infrastructure**
 - 💬 Ask me about **Java / Spring Boot**, **REST APIs**, or **Docker deployments**
-- 📫 Open to **junior roles**, **internships**, and **remote opportunities**
 - 🌍 Available for **LATAM, remote US/Canada/Brazil** positions
+
+<div align="center">
+
+![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-Junior%20Roles%20%7C%20Internships%20%7C%20Remote%20Worldwide-6AB42D?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -104,7 +109,7 @@ I enjoy building things end-to-end: from database design to deployment. I'm curr
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Quir%C3%B3s-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cquiros2/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Próximamente-6AB42D?style=flat&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-cquiros--dev.vercel.app-6AB42D?style=flat&logo=vercel&logoColor=white)](https://cquiros-dev.vercel.app)
 [![Email](https://img.shields.io/badge/Email-cquiros2dev%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cquiros2dev@gmail.com)
 
 </div>
@@ -113,15 +118,20 @@ I enjoy building things end-to-end: from database design to deployment. I'm curr
 
 ### 🧑‍💻 Sobre mí
 
-Soy estudiante de Ingeniería del Software en mi último año, con experiencia real construyendo y desplegando sistemas en producción. Actualmente trabajo como IT Lead & Web Developer en Tubertico, donde soy responsable de toda el área de tecnología — desde la infraestructura hasta el desarrollo web.
+Soy estudiante de Ingeniería del Software en mi último año en la Universidad Latina de Costa Rica (Sede San Pedro). Me desempeño como IT Lead & Web Developer en Tubertico, donde soy dueño del stack tecnológico completo — desde la infraestructura y el despliegue hasta el desarrollo web.
 
-Me gusta construir cosas de punta a punta: desde el diseño de la base de datos hasta el despliegue. Actualmente estoy ampliando mis habilidades en TypeScript, patrones modernos de React y diseño de sistemas.
+Construyo de punta a punta: diseño de base de datos, APIs REST, despliegues con Docker. Actualmente ampliando mis habilidades en TypeScript, React moderno y diseño de sistemas.
 
 - 🔭 Actualmente construyendo un **sistema ERP completo** (React 19 + TypeScript + Express + PostgreSQL)
 - 🌱 Aprendiendo más sobre **diseño de sistemas** e **infraestructura cloud**
 - 💬 Preguntame sobre **Java / Spring Boot**, **REST APIs** o **deployments con Docker**
-- 📫 Abierto a **roles junior**, **prácticas profesionales** y **trabajo remoto**
 - 🌍 Disponible para posiciones en **LATAM, remoto para US / Canada / Brasil**
+
+<div align="center">
+
+![Buscando trabajo](https://img.shields.io/badge/🟢%20Buscando%20Trabajo-Roles%20Junior%20%7C%20Prácticas%20%7C%20Remoto%20Mundial-6AB42D?style=for-the-badge)
+
+</div>
 
 ---
 
