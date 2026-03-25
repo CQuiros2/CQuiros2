@@ -1,6 +1,3 @@
-# README_EN.md — copy this into your GitHub profile README
-
----
 
 <!-- EN / ES toggle -->
 <div align="center">
