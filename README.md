@@ -30,54 +30,56 @@
 
 ## About
 
-Full Stack Developer with hands-on experience shipping real business software from architecture to production.
+Full Stack Developer who ships real business software, from architecture to production, and keeps it running.
 
-I work across backend, frontend, databases, Dockerized deployments, and cloud infrastructure. My strongest focus is building complete systems that are not just coded, but actually deployed, maintained, and improved in real environments.
+I am the main developer behind Tubertico's digital systems: the corporate website and an ERP that the company uses every day to run its operations, from buying raw material from farmers to exporting containers and issuing electronic invoices to the Costa Rican tax authority.
 
-I am currently the main developer behind Tubertico’s digital systems, where I have worked on both the company website and an internal ERP initiative.
+I work across backend, frontend, relational databases, CI/CD and cloud infrastructure, and I care about the parts that make software trustworthy: automated tests, audit trails, clear documentation and safe deployments.
 
-I’m finishing my Bachelor's in Software Engineering at **Universidad Latina de Costa Rica** in 2026.
+I'm finishing my Bachelor's in Software Engineering at **Universidad Latina de Costa Rica** in 2026.
 
 ---
 
-## What I’m building
+## What I'm building
 
 | Project | Stack | Status |
 |---|---|---|
+| **Tubertico ERP** | React 19 · TypeScript · Node.js · Express 5 · PostgreSQL · Vite · Tailwind | ✅ In production, in daily use |
 | [**tubertico.com**](https://tubertico.com) | Next.js 14 · TypeScript · Tailwind · DigitalOcean | ✅ Live in production |
-| **Tubertico ERP** | React 19 · TypeScript · Express · PostgreSQL · Vite · Tailwind | 🔨 In progress |
-
-### tubertico.com
-Led the migration and production deployment of the Tubertico corporate website.  
-Implemented the bilingual public website, improved mobile UX, integrated catalog and gallery content, handled domain/DNS transition, and deployed the final production version on DigitalOcean.
-
-Also documented and preserved the original legacy implementation as a separate archival repository for reference and portfolio purposes.
 
 ### Tubertico ERP
-Currently developing a modular ERP focused on internal business operations such as inventory, purchase flows, and reporting.  
-The project is being built with a modern TypeScript stack and structured for long-term maintainability.
+An ERP for an agricultural export company (roots and tubers), built and maintained by me since February 2026 and used daily by management, administration, operations and the processing plant.
+
+- **20+ modules:** purchase orders, raw-material reception, quality control, yield reports, international orders, packing lists and commercial invoices, inventory, accounts receivable and payable, HR and payroll, transport, field product mapping, equipment maintenance, commercial quotes and an internal ticket system.
+- **Electronic invoicing (Costa Rica, v4.4):** XML generation, XAdES-EPES digital signature, submission to the tax authority's API and automatic delivery to clients once accepted.
+- **Transport:** drivers get a link (no account needed) to accept trips, share GPS location, collect the farmer's signature and upload photos; it keeps working without signal and syncs when the connection comes back.
+- **One codebase, two companies:** the same repository is deployed for Tubertico and a second exporting company, each with its own database, branding and tax credentials.
+- **Engineering:** layered backend (routes → controllers → services → repositories), versioned SQL migrations, audit log on every change, ~3,600 automated tests (HTTP flow suites, unit tests and frontend tests) and a GitHub Actions pipeline that tests and deploys both installations to DigitalOcean.
+
+### tubertico.com
+Led the migration and production deployment of the Tubertico corporate website: a static Next.js site in four languages, with improved mobile UX, catalog and gallery content, and the domain/DNS transition. The original legacy implementation is preserved as a separate archival repository.
 
 ---
 
 ## What I do best
 
-- Build full-stack business web applications
-- Design and implement backend architecture
-- Work with relational databases and structured data models
-- Deploy production apps with Docker and cloud platforms
-- Improve real-world UX, responsive behavior, and content structure
-- Maintain legacy systems while migrating toward better stacks
-- Document projects clearly for production and portfolio use
+- Build full-stack business applications that real teams use every day
+- Design backend architecture and relational data models
+- Integrate with external APIs (tax authority, email, maps, file storage)
+- Automate testing and deployment with CI/CD
+- Turn vague requests from non-technical users into working features
+- Improve legacy code step by step without stopping production
+- Document systems clearly for whoever maintains them next
 
 ---
 
 ## Tech Stack
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React%2019-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -94,7 +96,10 @@ The project is being built with a modern TypeScript stack and structured for lon
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### Tools
+### Testing & Tools
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -102,10 +107,9 @@ The project is being built with a modern TypeScript stack and structured for lon
 
 ## Current Focus
 
-- Improving and maintaining production-ready web systems
-- Building internal tools with strong business value
-- Strengthening backend and cloud deployment expertise
-- Growing into a junior-to-mid Full Stack / Backend role with real ownership
+- Growing the ERP with new modules while keeping it stable in production
+- Strengthening backend, data modeling and cloud deployment expertise
+- Looking for a junior-to-mid Full Stack / Backend role with real ownership
 
 ---
 
@@ -152,11 +156,11 @@ The project is being built with a modern TypeScript stack and structured for lon
 
 ## Sobre mí
 
-Desarrollador Full Stack con experiencia práctica entregando software real, desde la arquitectura hasta producción.
+Desarrollador Full Stack que entrega software real para empresas, desde la arquitectura hasta producción, y lo mantiene funcionando.
 
-Trabajo entre backend, frontend, bases de datos, despliegues con Docker e infraestructura cloud. Mi enfoque principal es construir sistemas completos que no solo funcionen en desarrollo, sino que realmente se publiquen, mantengan y mejoren en entornos reales.
+Soy el desarrollador principal de los sistemas digitales de Tubertico: el sitio web corporativo y un ERP que la empresa usa todos los días para operar, desde la compra de materia prima a los agricultores hasta la exportación de contenedores y la emisión de facturas electrónicas ante Hacienda.
 
-Actualmente soy uno de los responsables técnicos detrás de los sistemas digitales de Tubertico, donde he trabajado tanto en el sitio web corporativo como en una iniciativa interna de ERP.
+Trabajo entre backend, frontend, bases de datos relacionales, CI/CD e infraestructura cloud, y me importa lo que hace confiable al software: pruebas automáticas, historial de cambios, documentación clara y despliegues seguros.
 
 Estoy finalizando mi Bachillerato en **Ingeniería del Software** en la **Universidad Latina de Costa Rica** en 2026.
 
@@ -166,40 +170,42 @@ Estoy finalizando mi Bachillerato en **Ingeniería del Software** en la **Univer
 
 | Proyecto | Stack | Estado |
 |---|---|---|
+| **Tubertico ERP** | React 19 · TypeScript · Node.js · Express 5 · PostgreSQL · Vite · Tailwind | ✅ En producción, en uso diario |
 | [**tubertico.com**](https://tubertico.com) | Next.js 14 · TypeScript · Tailwind · DigitalOcean | ✅ En producción |
-| **Tubertico ERP** | React 19 · TypeScript · Express · PostgreSQL · Vite · Tailwind | 🔨 En desarrollo |
-
-### tubertico.com
-Lideré la migración y el despliegue a producción del sitio corporativo de Tubertico.  
-Implementé el sitio público bilingüe, mejoré la experiencia móvil, integré contenido de catálogo y galería, manejé la transición de dominio/DNS y dejé publicada la versión final en DigitalOcean.
-
-Además, documenté y preservé la implementación legacy original como un repositorio separado de archivo y portafolio.
 
 ### Tubertico ERP
-Actualmente desarrollo un ERP modular enfocado en operaciones internas del negocio como inventario, flujos de compra y reportes.  
-El proyecto se está construyendo con un stack moderno en TypeScript y con estructura pensada para mantenimiento a largo plazo.
+ERP para una empresa agrícola exportadora (raíces y tubérculos), construido y mantenido por mí desde febrero de 2026 y usado a diario por gerencia, administración, operaciones y la planta.
+
+- **Más de 20 módulos:** órdenes de compra, recepción de materia prima, calidad, reportes de rendimiento, órdenes internacionales, packing lists y facturas comerciales, inventario, cuentas por cobrar y por pagar, recursos humanos y planilla, transporte, mapeo de producto en campo, mantenimiento de equipos, cotizaciones comerciales y un sistema interno de tickets.
+- **Facturación electrónica (Costa Rica, v4.4):** generación del XML, firma digital XAdES-EPES, envío al API de Hacienda y envío automático al cliente cuando el comprobante es aceptado.
+- **Transporte:** el chofer recibe un enlace (sin usuario) para aceptar el viaje, compartir su ubicación, recoger la firma del productor y subir fotos; funciona sin señal y se sincroniza cuando vuelve la conexión.
+- **Un código, dos empresas:** el mismo repositorio se publica para Tubertico y para una segunda empresa exportadora, cada una con su base de datos, su marca y sus credenciales de Hacienda.
+- **Ingeniería:** backend en capas (routes → controllers → services → repositories), migraciones SQL versionadas, historial de auditoría en cada cambio, ~3.600 pruebas automáticas (suites de flujo por HTTP, unitarias y del frontend) y un pipeline de GitHub Actions que prueba y despliega las dos instalaciones en DigitalOcean.
+
+### tubertico.com
+Lideré la migración y el despliegue a producción del sitio corporativo de Tubertico: un sitio estático en Next.js en cuatro idiomas, con mejor experiencia móvil, contenido de catálogo y galería, y la transición de dominio/DNS. La implementación legacy original quedó preservada en un repositorio de archivo aparte.
 
 ---
 
 ## En lo que mejor me desempeño
 
-- Construcción de aplicaciones web empresariales full stack
-- Diseño e implementación de arquitectura backend
-- Trabajo con bases de datos relacionales y modelos de datos estructurados
-- Despliegue de aplicaciones en producción con Docker y plataformas cloud
-- Mejora de UX real, comportamiento responsive y estructura de contenido
-- Mantenimiento de sistemas legacy mientras se migran a stacks mejores
-- Documentación clara para producción, mantenimiento y portafolio
+- Construir aplicaciones empresariales full stack que equipos reales usan todos los días
+- Diseñar arquitectura backend y modelos de datos relacionales
+- Integrar APIs externas (Hacienda, correo, mapas, almacenamiento de archivos)
+- Automatizar pruebas y despliegues con CI/CD
+- Convertir pedidos poco claros de usuarios no técnicos en funciones que sirven
+- Mejorar código legacy por partes sin detener producción
+- Documentar los sistemas con claridad para quien los mantenga después
 
 ---
 
 ## Stack Tecnológico
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React%2019-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -216,7 +222,10 @@ El proyecto se está construyendo con un stack moderno en TypeScript y con estru
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### Herramientas
+### Pruebas y herramientas
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -224,10 +233,9 @@ El proyecto se está construyendo con un stack moderno en TypeScript y con estru
 
 ## Enfoque Actual
 
-- Mejorar y mantener sistemas web listos para producción
-- Construir herramientas internas con valor real para negocio
-- Fortalecer experiencia en backend y despliegue cloud
-- Seguir creciendo hacia roles junior/mid-level con responsabilidad real
+- Hacer crecer el ERP con módulos nuevos sin perder estabilidad en producción
+- Fortalecer mi experiencia en backend, modelado de datos y despliegue cloud
+- Buscar un rol Full Stack / Backend junior a mid-level con responsabilidad real
 
 ---
 
